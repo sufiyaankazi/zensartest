@@ -74,5 +74,7 @@ public with sharing class FieldSetFormController {
             Fields = new List<Field>();
         }
     }
+    //this is for testing branch merge
 }
+system.debug('this is for testing merge');
 //sufiyaan kazi edited this in eclipse
